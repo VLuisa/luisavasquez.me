@@ -1,11 +1,25 @@
-/*body {
+body {
   margin: 0;
   padding: 0;
+  font-family: 'Trirong', serif;
+  color: white;
+}
+
+h1 {
+  font-family: 'Muli', sans-serif;
+}
+
+footer a {
+  color: inherit;
 }
 
 .cover {
   margin: 0;
   padding: 0;
-  background-image: url(https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=61282cfeed75871385c84c2a44a8e594);
+  background-image: url(https://images.unsplash.com/photo-1462733441571-9312d0b53818?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=deb060f2ba359f2691166b4278ecdc5b);
   background-size: cover;
-}*/
+}
+
+.gradient {
+  background: linear-gradient (#FFFFFFFF, black);
+}
