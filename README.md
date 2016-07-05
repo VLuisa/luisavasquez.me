@@ -8,6 +8,12 @@ What worked:
 What didn't work:
 - Didn't make a checkbox hack menu for header navigation
 
+Screen capture of plain HTML:
 ![alt tag](https://github.com/VLuisa/luisavasquez.me/blob/gh-pages/screencaps/cap1.png)
-![alt tag](https://github.com/VLuisa/luisavasquez.me/blob/gh-pages/screencaps/cap2.png = 250x)
+
+Finished full screen:
+![alt tag](https://github.com/VLuisa/luisavasquez.me/blob/gh-pages/screencaps/cap2.png)
+
+Responsive design with media query:
+![alt tag](https://github.com/VLuisa/luisavasquez.me/blob/gh-pages/screencaps/cap3.png)
 
